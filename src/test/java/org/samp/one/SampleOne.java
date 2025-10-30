@@ -11,5 +11,17 @@ public class SampleOne {
 	public void fish() {
 
 	}
+	public void cow() {
+
+	}
+	public void horse() {
+
+	}
+	public void camel() {
+
+	}
+	public void lamb() {
+
+	}
 
 }
