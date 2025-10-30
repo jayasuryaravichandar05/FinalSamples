@@ -23,5 +23,17 @@ public class SampleOne {
 	public void Cat() {
 
 	}
+	
+	public void cow() {
 
+	}
+	public void horse() {
+
+	}
+	public void camel() {
+
+	}
+	public void lamb() {
+	
+}
 }
