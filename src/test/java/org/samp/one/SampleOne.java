@@ -11,6 +11,19 @@ public class SampleOne {
 	public void fish() {
 
 	}
+	public void Goat() {
+
+	}
+	public void whale() {
+
+	}
+	public void Dog() {
+
+	}
+	public void Cat() {
+
+	}
+	
 	public void cow() {
 
 	}
@@ -21,7 +34,6 @@ public class SampleOne {
 
 	}
 	public void lamb() {
-
-	}
-
+	
+}
 }
